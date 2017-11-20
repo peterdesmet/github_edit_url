@@ -29,3 +29,7 @@ This will add the `github_edit_url` attribute for all articles and pages, which 
 ```html
 <a href={{ page.github_edit_url }}>Edit on GitHub</a>
 ```
+
+## LICENSE
+
+[LICENSE](LICENSE) 
