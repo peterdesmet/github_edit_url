@@ -14,9 +14,11 @@ Or see the general [Plugin installation instructions](http://docs.getpelican.com
 
 Add the URL of your public website repository (including the path to the content directory) to your settings file:
 
-    GITHUB_CONTENT_URL = "https://github.com/your_user_name/your_website_repo/blob/master/your_content_dir" # No trailing slash
+```python
+GITHUB_CONTENT_URL = "https://github.com/your_user_name/your_website_repo/blob/master/your_content_dir" # No trailing slash
+```
 
-This will add the `github_edit_url` attribute for all articles and pages, which you can use in templates as follows:
+This will active the `github_edit_url` attribute for all articles and pages, which you can use in templates as follows:
 
 **Article template:**
 
