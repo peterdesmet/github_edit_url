@@ -23,13 +23,13 @@ This will activate the `github_edit_url` attribute for all articles and pages, w
 **Article template:**
 
 ```html
-<a href={{ article.github_edit_url }}>Edit on GitHub</a>
+<a href="{{ article.github_edit_url }}">Edit on GitHub</a>
 ```
 
 **Page template:**
 
 ```html
-<a href={{ page.github_edit_url }}>Edit on GitHub</a>
+<a href="{{ page.github_edit_url }}">Edit on GitHub</a>
 ```
 
 ## LICENSE
