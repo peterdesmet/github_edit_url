@@ -18,7 +18,7 @@ Add the URL of your public website repository (including the path to the content
 GITHUB_CONTENT_URL = "https://github.com/your_user_name/your_website_repo/blob/master/your_content_dir" # No trailing slash
 ```
 
-This will active the `github_edit_url` attribute for all articles and pages, which you can use in templates as follows:
+This will activate the `github_edit_url` attribute for all articles and pages, which you can use in templates as follows:
 
 **Article template:**
 
