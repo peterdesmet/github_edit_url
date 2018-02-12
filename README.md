@@ -6,7 +6,7 @@ A [Pelican](http://getpelican.com/) plugin that adds a `github_edit_url` attribu
 
 1. Download this plugin
 2. Place it in your plugins directory
-3. Add `github_edit_url` to `PLUGINS` in your settings file.
+3. Add `pelican-github-edit` to `PLUGINS` in your settings file.
 
 Or see the general [Plugin installation instructions](http://docs.getpelican.com/en/latest/plugins.html).
 
