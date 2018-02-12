@@ -12,7 +12,7 @@ Or see the general [Plugin installation instructions](http://docs.getpelican.com
 
 ## Usage
 
-Add the URL of your public website repository (including the path to the content directory) to your settings file:
+Add the URL of your public website repository (including the path to the content directory) to your **settings file**:
 
 ```python
 GITHUB_CONTENT_URL = "https://github.com/your_user_name/your_website_repo/blob/master/your_content_dir" # No trailing slash
